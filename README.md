@@ -1,9 +1,8 @@
 # 🎉 Welcome to LeCheng's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
-
 <h2 align="left">
-  <br> I'm Siv LeCheng, Full Stack Web Developer :computer:<br>
+  <br> I'm LeCheng, Full Stack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
